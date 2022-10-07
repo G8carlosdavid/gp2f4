@@ -16,5 +16,7 @@
 		<br>
 		<a href="divisio.html">d) Divisió de 2 operands</a>
 		<br>
+		<a href="ip.html">d) Calcul adreça de subxarxa</a>
+		<br>
 	</body>
 <html>
